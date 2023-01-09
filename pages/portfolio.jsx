@@ -17,21 +17,21 @@ function Portfolio() {
               Portfolio
             </h1>
             <p className="description">
-              Incididunt in cillum magna occaecat nisi qui in.
+              Here you can find my former work for DER STANDARD and Rendity
             </p>
 
             <div className="portfolio-wrapper">
               <div className="portfolio-item">
-                <img src="/chitchat.png" className="portfolio-image" alt="" />
+                <img src="/article.png" className="portfolio-image" alt="" />
 
-                <h4 className="portfolio-name">Chat App Exploration</h4>
-                <div className="portfolio-category">Mobile Dev</div>
+                <h4 className="portfolio-name">Article </h4>
+                <div className="portfolio-category">DER STANDARD</div>
               </div>
               <div className="portfolio-item">
-                <img src="/kajian.jpg" className="portfolio-image" alt="" />
+                <img src="/podcast.png" className="portfolio-image" alt="" />
 
-                <h4 className="portfolio-name">kajian App</h4>
-                <div className="portfolio-category">Mobile Dev</div>
+                <h4 className="portfolio-name">Corporate Podcast</h4>
+                <div className="portfolio-category">Rendity</div>
               </div>
             </div>
           </div>
